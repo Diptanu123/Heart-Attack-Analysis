@@ -320,7 +320,7 @@ def main():
         st.markdown("## 📈 Model Information")
         st.info("""
         **ExtraTreesClassifier Model**
-        - Accuracy: 96%
+        - Accuracy: 90%
         - Features: 11 clinical parameters
         - Training Data: 918 patients
         - Cross-validated performance
@@ -353,4 +353,5 @@ def main():
     """, unsafe_allow_html=True)
 
 if __name__ == "__main__":
+
     main()
