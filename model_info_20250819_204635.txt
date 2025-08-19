@@ -1,0 +1,9 @@
+Best Heart Attack Prediction Model
+========================================
+Model: Gradient Boosting
+Accuracy: 0.8533 (85.33%)
+Saved on: 2025-08-19 20:46:35
+
+Model file: best_heart_attack_model_20250819_204635.pkl
+Scaler file: best_heart_attack_scaler_20250819_204635.pkl
+Features file: feature_names_20250819_204635.pkl
